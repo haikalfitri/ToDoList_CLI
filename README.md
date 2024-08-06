@@ -1,5 +1,4 @@
 # ToDoListApp
-<<<<<<< HEAD
 ![CLI Screenshot](images/tdl_cli.png)
 ## Description
 
