@@ -1,18 +1,12 @@
-## Getting Started
+# ToDoListApp
+![CLI Screenshot](images/tdl_cli.png)
+## Description
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+`ToDoListApp` is a simple Java application that allows users to manage their tasks using a command-line interface. With this application, users can add new tasks, remove current tasks, and view the current list of tasks created.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Add tasks to the to-do list
+- Remove tasks from the list
+- View all tasks in the list
+- Exit the application
