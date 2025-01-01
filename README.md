@@ -18,10 +18,6 @@ Instruction:
 
 `ToDoListApp` is a simple Java application that allows users to manage their tasks using a command-line interface. With this application, users can add new tasks, remove current tasks, and view the current list of tasks created.
 
-## Features
-
-=======
-
 ## Description
 
 `ToDoListApp` is a simple Java application that allows users to manage their tasks using a command-line interface. With this application, users can add new tasks, remove current tasks, and view the current list of tasks created.
