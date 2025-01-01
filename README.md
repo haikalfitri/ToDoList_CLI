@@ -13,11 +13,9 @@ Instruction:
     ```bash
     java -cp bin ToDoList
 
+
+
 ![CLI Screenshot](image/tdl_cli.png)
-## Description
-
-`ToDoListApp` is a simple Java application that allows users to manage their tasks using a command-line interface. With this application, users can add new tasks, remove current tasks, and view the current list of tasks created.
-
 ## Description
 
 `ToDoListApp` is a simple Java application that allows users to manage their tasks using a command-line interface. With this application, users can add new tasks, remove current tasks, and view the current list of tasks created.
