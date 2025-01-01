@@ -12,8 +12,7 @@ Instruction:
 3. **Run the app**:
     ```bash
     java -cp bin ToDoList
-
-
+    ```
 
 ![CLI Screenshot](image/tdl_cli.png)
 ## Description
